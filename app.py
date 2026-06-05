@@ -58,7 +58,6 @@ st.set_page_config(
     page_title="Career Shaper™ CrowdRush",
     page_icon="🎯",
     layout="wide",
-    initial_sidebar_bar="collapsed",
     initial_sidebar_state="collapsed",
 )
 st_autorefresh(interval=2000, key="auto_refresh")
