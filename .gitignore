@@ -1,0 +1,36 @@
+# Local Python environments
+.venv/
+venv/
+env/
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# Local runtime logs
+*.log
+streamlit.out.log
+streamlit.err.log
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local environment files
+.env
+.env.*
+
+# Test/cache folders
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

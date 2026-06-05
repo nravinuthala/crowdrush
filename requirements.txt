@@ -1,0 +1,6 @@
+streamlit
+supabase
+streamlit-autorefresh
+qrcode
+pillow
+pandas
