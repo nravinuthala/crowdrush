@@ -1,6 +1,6 @@
-streamlit
+streamlit>=1.35.0
 supabase
 streamlit-autorefresh
-qrcode
+qrcode[pil]
 pillow
 pandas
